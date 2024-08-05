@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240805-1746-Experimental"
+	Name="jagan-HP-Notebook"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="jagan-HP-Notebook"
+	OSRelease="5.15.0-106-lowlatency"
+	OSVersion="#116-Ubuntu SMP PREEMPT Wed Apr 17 15:49:36 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7828"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="500.007"
+	>
+	<Testing>
+		<StartDateTime>Aug 05 23:16 IST</StartDateTime>
+		<StartTestTime>1722879990</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 05 23:16 IST</EndDateTime>
+		<EndTestTime>1722879990</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
